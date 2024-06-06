@@ -10,7 +10,7 @@ import herencia1.EstudianteDistancia;
  *
  * @author reroes
  */
-public class Ejecutor {
+public class Ejecutor4 {
     
     public static void main(String[] args) {
         // Objeto de tipo Estudiante Presencial
